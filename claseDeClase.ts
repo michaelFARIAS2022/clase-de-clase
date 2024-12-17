@@ -30,6 +30,7 @@ function main(){
 
     const unaBanda= new Banda(["Marce"],[unAlbum, unAlbum, unAlbum]);
     console.log(unaBanda.albums);
+    console.log("otro cambio")
 
 }
 main();
